@@ -1,2 +1,4 @@
 # nick
-1ºC
+1º
+* Colegio Mivico Militar Colegio Afonso Camargo
+* 
